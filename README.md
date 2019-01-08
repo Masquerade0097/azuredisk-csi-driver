@@ -1,4 +1,6 @@
 # azuredisk CSI driver for Kubernetes (Alpha)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fandyzhangx%2Fazuredisk-csi-driver.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fandyzhangx%2Fazuredisk-csi-driver?ref=badge_shield)
+
 
 **WARNING**: This driver is in ALPHA currently. Do NOT use this driver in a production environment in its current state.
 
